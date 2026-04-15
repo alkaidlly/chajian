@@ -34,7 +34,7 @@
 
 目录示例（Windows）：
 
-`E:\SillyTavern\SillyTavern-release\data\default-user\extensions\chajian`
+`SillyTavern\SillyTavern-release\data\default-user\extensions\chajian`
 
 然后重启或刷新 SillyTavern 页面。
 
@@ -47,15 +47,13 @@
 
 ## 手机使用说明
 
-- 已内置小屏适配（`max-width: 768px`）
-- 手机上会禁用桌面拖拽/缩小交互，优先保证输入与阅读体验
-- 设置弹窗与预览弹窗自动扩大为接近全屏
+- 暂时没做手机适配，因为我cursor免费额度没了，下个月再见家人们
 
 ## 过滤标签注意事项
 
 自定义标签必须使用**英文逗号**分隔，例如：
 
-`snow,details,ooc`
+`snow,details`
 
 如果使用中文逗号 `，`，可能导致过滤不生效。
 
